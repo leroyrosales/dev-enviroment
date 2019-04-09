@@ -95,7 +95,7 @@ To override, just click on the pencil icon next to the code-to-be-overwritten an
 
 # Tips & Cheatsheets & Cool Docs
 ----
-SSH Cheatsheet: [https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e](https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e)
-Full-stack web dev notes: [https://github.com/8483/notes](https://github.com/8483/notes)
-Awesome Design Tools: [https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-Women Made It: [https://github.com/LisaDziuba/Women-Made-It](https://github.com/LisaDziuba/Women-Made-It)
+* SSH Cheatsheet: [https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e](https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e)
+* Full-stack web dev notes: [https://github.com/8483/notes](https://github.com/8483/notes)
+* Awesome Design Tools: [https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* Women Made It: [https://github.com/LisaDziuba/Women-Made-It](https://github.com/LisaDziuba/Women-Made-It)

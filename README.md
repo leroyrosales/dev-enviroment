@@ -1,3 +1,7 @@
+The below dev environment is set up for Mac. 
+
+Current OS: macOS Mojave 10.14.4
+
 # Xcode
 - You have two options for installing xcode.  The full package or just the
 command line tools but at a minimum the command line tools are required.

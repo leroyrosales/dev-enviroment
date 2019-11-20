@@ -1,7 +1,7 @@
 *The below dev environment is set up for Mac.*
 
 My Current OS: 
-* macOS Mojave 10.14.4
+* macOS Catalina 10.15.1
 
 My Current Hardware: 
 * iMac Retina 5k Late 2015
@@ -43,7 +43,7 @@ From the awesome Mina Markham!
 
 # Nano
 - Take 5 minutes to learn the nano text editor and save yourself the hassle of
-learning vim
+learning VIM (for now)
 
 # VIM
 - Learn how to get out of vim use the following:
@@ -115,10 +115,18 @@ Spin up containers via the command line without having to mess with MAMP, Vagran
 - `\curl -sSL https://get.rvm.io | bash -s stable`
 
 # Tips & Cheatsheets & Cool Docs
+* Learn Github without touching code: [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 * Markdown Cheatsheet: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Free Online Resources: [https://gist.github.com/leroyrosales/0d74b3adf2c0ff3af041c7c9f8cd7c70](https://gist.github.com/leroyrosales/0d74b3adf2c0ff3af041c7c9f8cd7c70)
+* Free For Developers: [https://free-for.dev/#/](https://free-for.dev/#/)
 * SSH Cheatsheet: [https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e](https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e)
 * Full-stack web dev notes: [https://github.com/8483/notes](https://github.com/8483/notes)
 * Awesome Design Tools: [https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 * Women Made It: [https://github.com/LisaDziuba/Women-Made-It](https://github.com/LisaDziuba/Women-Made-It)
 * Awesome Stacks: [https://github.com/stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 * Front-end Dev Handbook for 2019: [https://frontendmasters.com/books/front-end-handbook/2019/](https://frontendmasters.com/books/front-end-handbook/2019/) -- *SUPER AWESOME*
+* 30 seconds of code (useful JS snippets): [https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+
+
+
+

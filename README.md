@@ -1,7 +1,7 @@
 *The below dev environment is set up for Mac.*
 
 My Current OS: 
-* macOS Catalina 10.15.1
+* macOS Big Sur 11.7.6
 
 My Current Hardware: 
 * iMac Retina 5k Late 2015
@@ -126,6 +126,8 @@ Spin up containers via the command line without having to mess with MAMP, Vagran
 * Awesome Stacks: [https://github.com/stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 * Front-end Dev Handbook for 2019: [https://frontendmasters.com/books/front-end-handbook/2019/](https://frontendmasters.com/books/front-end-handbook/2019/) -- *SUPER AWESOME*
 * 30 seconds of code (useful JS snippets): [https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+* CivicActions Accessibility Guide: [https://accessibility.civicactions.com/guide/](https://accessibility.civicactions.com/guide/)
+
 
 
 
